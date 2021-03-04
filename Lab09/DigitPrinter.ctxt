@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=DigitPrinter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DigitPrinter\ here.\r\n\r\n\ @author\ (Derek\ Campbell)\r\n\ @version\ (03/04/2020)\r\n
+comment1.params=_v
+comment1.target=DigitPrinter(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DigitPrinter\r\n
+comment2.params=v2
+comment2.target=void\ setValue(int)
+comment2.text=\r\n\ mutator\ method\ that\ sets\ a\ new\ value\ for\ v.\r\n\ @param\ \ v2\ \ a\ new\ value\ set\ for\ v.\r\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\r\n\ Accessor\ method\ that\ returns\ the\ value\ set\ for\ v.\r\n
+comment4.params=
+comment4.target=void\ printDigits()
+comment4.text=\r\n\ Accessor\ method\ that\ calculates\ how\ many\ digits\ are\ in\ the\r\n\ given\ number.Assuming\ the\ number\ is\ less\ than\ 10,000,000.\r\n
+numComments=5

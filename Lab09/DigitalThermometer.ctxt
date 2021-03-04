@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=DigitalThermometer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DigitalThermometer\ here.\r\n\r\n\ @author\ (Derek\ Campbell)\r\n\ @version\ (03/08/2020)\r\n
+comment1.params=_vm
+comment1.target=DigitalThermometer(double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DigitalThermometer\r\n
+comment2.params=vm2
+comment2.target=void\ setVoltage(double)
+comment2.text=\r\n\ mutator\ method\ that\ sets\ a\ new\ value\ for\ vm.\r\n\ @param\ \ vm2\ \ a\ new\ value\ set\ for\ vm.\r\n
+comment3.params=
+comment3.target=double\ getVoltage()
+comment3.text=\r\n\ Accessor\ method\ that\ returns\ the\ value\ set\ for\ vm.\r\n
+comment4.params=
+comment4.target=void\ calculateTemp()
+comment4.text=\r\n\ Accoessor\ method\ that\ returns\ the\ calculated\ temperature\ off\ the\ \r\n\ voltage\ value\ set\ for\ vm.\r\n
+numComments=5

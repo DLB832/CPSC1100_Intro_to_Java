@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CarSimulator
+comment0.text=\n\ A\ class\ to\ simulate\ the\ cost\ of\ usage\ of\ a\ car.\ \n\n\ @author\ (Derek\ Campbell)\n\ @version\ (02/23/2020)\n
+comment1.params=_gallons\ _efficiency\ _price
+comment1.target=CarSimulator(double,\ double,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CarSimulator\ made\ off\ of\ user\ input.\n
+comment2.params=
+comment2.target=double\ getCostPer100Miles()
+comment2.text=\n\ Calculate\ the\ cost\ of\ driving\ the\ car\ 100\ miles.\n\ @return\ \ how\ many\ miles\ the\ car\ gets\ per\ gallon\ /\ the\ price\ per\ gallon?\n
+comment3.params=
+comment3.target=double\ getDistance()
+comment3.text=\n\ Calculates\ how\ far\ the\ car\ can\ go\ with\ the\ gas\ currently\ in\ the\ tank.\n\ @return\ the\ product\ of\ the\ amount\ of\ gas\ in\ the\ tank\ and\ fuel\ efficiency.\n
+numComments=4

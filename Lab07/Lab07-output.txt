@@ -1,0 +1,47 @@
+Begin tasks.
+
+Task01: Begin.
+
+Paper Width: 5.3 inches
+Paper Height: 8.2 inches
+Converted Paper Width: 134.62
+Converted Paper Height: 208.28
+
+Task02: Begin.
+
+Please input a value for X:
+42
+Please input a value for Y:
+97
+Thank you for your inputs.
+Sum:                139
+Difference          -55
+Product:           4074
+Average:             69.0
+Distance:            55
+Maximum:             97
+Minimum:             42
+ 
+Task 03: Begin.
+
+Please input a value for the number of Gallons of 
+gas in the car's tank:25
+Please input a value for the fuel efficiency of the 
+car in Miles per Gallon:26.35
+Please input a value for the price of 1 gallon of 
+gas:2.13
+Thank you for your inputs.
+The cost of driving 100 miles is: $8.08
+The distance the car can currently travel is: 658.75 miles
+
+Task 04: Begin.
+
+Please input a value for the frequency of the 
+circuit:1.67
+Please input a value for the minimum value of the 
+capacitor:14
+Please input a value for the maximum value of the 
+capacitor:365
+Thank you for your inputs.
+Minimum Frequency: 0.74
+Maximum Frequency: 3.77

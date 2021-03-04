@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TaxReturn
+comment0.text=\n\ Write\ a\ description\ of\ class\ TaxReturn\ here.\n\n\ @author\ (Derek\ Campbell)\n\ @version\ (03/28/2020)\n
+comment1.params=fs\ _income
+comment1.target=TaxReturn(TaxReturn.FilingStatus,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ TaxReturn\n
+comment2.params=
+comment2.target=double\ getTax()
+comment2.text=\n\ An\ Accessor\ method\ which\ takes\ an\ individual\ or\ a\ couple's\ income\ and\ \n\ determines\ how\ much\ tax\ they\ owe.\n\n\ @return\ \ \ \ the\ amount\ of\ tax\ owed.\n
+numComments=3

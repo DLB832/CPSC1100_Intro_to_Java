@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Paper
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Paper\ here.\r\n\r\n\ @author\ (Derek\ Campbell)\r\n\ @version\ (02/19/2020)\r\n
+comment1.params=_height\ _width
+comment1.target=Paper(double,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Paper\r\n
+comment2.params=
+comment2.target=double\ getWidthInMillimeters()
+comment2.text=\r\n\ Shows\ the\ paper's\ width\ in\ inches\ as\ width\ in\ millimeters.\r\n
+comment3.params=
+comment3.target=double\ getHeightInMillimeters()
+comment3.text=\r\n\ Shows\ the\ paper's\ height\ in\ inches\ as\ height\ in\ millimeters.\r\n
+comment4.params=
+comment4.target=double\ getWidthInInches()
+comment4.text=\r\n\ Shows\ the\ paper's\ width\ in\ inches.\r\n
+comment5.params=
+comment5.target=double\ getHeightInInches()
+comment5.text=\r\n\ Shows\ the\ paper's\ height\ in\ inches.\r\n
+numComments=6

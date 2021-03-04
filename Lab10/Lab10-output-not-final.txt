@@ -1,0 +1,55 @@
+Bein Task01.
+The income tax value for a single idividual who made $8,000 is: $800.0
+The expected value is: $800
+The income tax value for a single idividual who made $32,000 is: $4400.0
+The expected value is: $4,400
+The income tax value for a single idividual who made $40,000 is: $6400.0
+The expected value is: $6,400
+The income tax value for a married couple who made $16,000 is: $1600.0
+The expected value is: $1,600
+The income tax value for a married couple who made $64,000 is: $8800.0
+The expected value is: $8,800
+The income tax value for a married couple who made $70,000 is: $10300.0
+The expected value is: $10,00
+
+The income tax value for a single idividual who made $4,000 is: $400.0
+The expected value is: $400
+The income tax value for a single idividual who made $16,000 is: $2000.0
+The expected value is: $2,000
+The income tax value for a single idividual who made $50,000 is: $8900.0
+The expected value is: $8,900
+The income tax value for a married couple who made $10,000 is: $1000.0
+The expected value is: $1,000
+The income tax value for a married couple who made $50,000 is: $6700.0
+The expected value is: $6,700
+The income tax value for a married couple who made $80,000 is: $12800.0
+The expected value is: $12,800
+
+Begin Task02.
+Please input your PIN.
+5927
+Your PIN is correct.0000
+Your PIN is incorrect.Please input your PIN.
+5927
+Your PIN is correct.0001
+Your PIN is incorrect.Please input your PIN.
+0002
+Your bank card is blocked.Please input your PIN.
+5927
+Your PIN is correct.0000
+Your PIN is incorrect.Please input your PIN.
+0000
+Your PIN is incorrect.Please input your PIN.
+0000
+Your bank card is blocked.Please input your PIN.
+0000
+Your PIN is incorrect.Please input your PIN.
+000
+Your PIN is incorrect.Please input your PIN.
+000
+Your bank card is blocked.
+Begin Task03.
+In car 1  Both doors closed.
+In car 2 the Left door open.
+In car 3 the Right door open.
+In car 4  Both doors open.

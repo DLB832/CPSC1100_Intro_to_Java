@@ -1,0 +1,97 @@
+Begin Task01
+The X value = 19
+Expected: 19
+X is positive
+Expected: X is positive
+Expected: 0
+The X value = 0
+X is zero.
+Expected: X is zero.
+Expected: -4
+The X value = -4
+X is negative.
+Expected: X is negative.
+
+Begin Task02
+The X value = -32.1
+X is negative.
+Expected: -32.1; X is Negative.
+The X value = 1000001.0
+X is positive.
+large
+Expected: 1000001.0; X is Positive; Large.
+Expected: X is positive
+The X value = 0.0
+X is zero.
+small
+Expected: 0.0; X is Zero; small.
+The X value = 0.0467852
+X is positive.
+small
+Expected: 0.0467852; X is Positive; small.
+The X value = -0.3568852
+X is negative.
+small
+Expected: -0.3568852; X is negative; small.
+
+Begin Task03
+The Value of V = 35468574
+V has 8 digits.
+Expected: 35468574; Expected: 8 digits.
+The Value of V = -64825776
+V has 8 digits.
+Expected: -64825776. Expected: 8 digits.
+The Value of V = -6685245
+V has 7 digits.
+Expected: -6685245. Expected: 7 digits.
+The Value of V = 7852368
+V has 7 digits.
+Expected: 7852368. Expected: 7 digits.
+The Value of V = 346598
+V has 6 digits.
+Expected: 346598. Expected: 6 digits.
+The Value of V = -658542
+V has 6 digits.
+Expected: -658542. Expected: 6 digits.
+The Value of V = 69658
+V has 5 digits.
+Expected: 69658. Expected: 5 digits.
+The Value of V = -58574
+V has 5 digits.
+Expected: -58574. Expected: 5 digits.
+The Value of V = 4458
+V has 4 digits.
+Expected: 4458. Expected: 4 digits.
+The Value of V = -3635
+V has 4 digits.
+Expected: -3635. Expected: 4 digits.
+The Value of V = 654
+V has 3 digits.
+Expected: 654. Expected: 3 digits.
+The Value of V = -321
+V has 3 digits.
+Expected: -321. Expected: 3 digits.
+The Value of V = 16
+V has 2 digits.
+Expected: 16. Expected: 2 digits.
+The Value of V = -14
+V has 2 digits.
+Expected: -14. Expected: 2 digits.
+The Value of V = 4
+V has 1 digit.
+Expected: 1. Expected: 1 digit.
+The Value of V = -6
+V has 1 digit.
+Expected: -1. Expected: 1 digit.
+
+Begin Tasko4.
+The voltage is: 14.0
+The temperature is: 150.0
+Expected: 14.0. Expected: 150.0.
+The voltage is: 11.9
+The temperature is: error.
+Expected: 11.9. Expected: error.
+The voltage is: 18.1
+The temperature is: error.
+Expected: 18.1. Expected: error.
+

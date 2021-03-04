@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ValueAnalyzer
+comment0.text=\r\n\ A\ class\ for\ analyzing\ an\ integer\ and\ practicing\ if\ statements.\r\n\r\n\ @author\ (Derek\ Campbell)\r\n\ @version\ (03/04/2020)\r\n
+comment1.params=
+comment1.target=ValueAnalyzer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ValueAnalyzer\r\n
+comment2.params=y
+comment2.target=void\ setValue(int)
+comment2.text=\r\n\ Sets\ a\ new\ value\ for\ x.\r\n\ @param\ \ y\ \ a\ new\ value\ set\ for\ x.\r\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\r\n\ Returns\ the\ value\ set\ for\ x.\r\n
+comment4.params=
+comment4.target=int\ analyzeValue()
+comment4.text=\r\n\ Analyzes\ the\ value\ set\ for\ x\r\n\ @return\ 1\ if\ the\ value\ for\ x\ is\ positive\r\n\ @return\ 0\ if\ the\ value\ for\ x\ is\ 0.\r\n\ @return\ -1\ if\ the\ value\ for\ x\ is\ negative.\r\n
+numComments=5

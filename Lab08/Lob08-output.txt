@@ -1,0 +1,26 @@
+Please input values for a triangle.
+Value for x1: 
+0
+Value for y1: 
+0
+Value for x2: 
+1
+Value for y2: 
+0
+Value for x3: 
+0
+Value for y3: 
+1
+Thank you for your inputs.
+
+Triangle point 1: (0.0, 0.0)
+Triangle point 2: (1.0, 0.0)
+Triangle point 3: (0.0, 1.0)
+Side 1 length: 1.0
+Side 2 length: 1.414
+Side 3 length: 1.0
+Angle 1: 45.000
+Angle 2: 90.000
+Angle 3: 45.000
+The Perimeter of the triangle is: 3.414
+The Area of the Triangle is: 0.500
