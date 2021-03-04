@@ -1,0 +1,14 @@
+Begin Student01 tests.
+
+Student name: Alex
+Expected: Alex
+
+Quiz and score: 1,95.0
+Expected: 1, 95.0
+
+New quiz and score results: 5,416.0
+Expected: 5, 416.0
+
+Quiz score average: 83.2
+Expected: 83.2
+

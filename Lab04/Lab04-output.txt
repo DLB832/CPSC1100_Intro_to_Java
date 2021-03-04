@@ -1,0 +1,56 @@
+Current/Total HP = 100/100
+Expected 0/0
+
+piece01 tests
+Current/Total HP = 100/100
+Expected 100/100
+Piece Name = no name
+Expected no name
+Piece Type = human
+Expected human
+Location (X,Y) = 7,8
+Expected (7,8)
+Attack Power = 25
+Expected 25
+Defense Power = 20
+Expected 20
+Current/Total SP = 50/50
+Expected 50/50
+
+piece02 tests
+Current/Total HP = 350/350
+Expected 350/350
+Piece Name = Derek
+Expected Derek
+Piece Type = Cryptid
+Expected Cryptid
+Location (X,Y) = 0,2
+Expected (0,2)
+Attack Power = 14
+Expected 14
+Defense Power = 20
+Expected 20
+Current/Total SP = 75/75
+Expected 75/75
+ 
+Piece 1: Movement test
+Move up. Y = 9
+Expected 9
+Move down. Y = 8
+Expected 8
+Move left. X = 6
+Expected 6
+Move right. X = 7
+Expected 7
+
+Test location set
+New piece01 location = 14,15
+Expected new piece location = (14,15)
+
+Deduct Health test
+HP - 20 = 80
+Expected 80
+
+Add Health test
+HP + 40 = 120
+Expected 120

@@ -1,0 +1,29 @@
+New Employee Tests:
+
+Employee name: Jason
+Expected: Jason
+
+Employee job title: QA Tester
+Expected: QA Tester
+
+Employee salary: 80.0
+Expected: 80.0
+
+Employee's initial sick days remaining: 8
+Expected: 8
+
+Employee's sick days remaining(+): 9
+Expected: 9
+
+Employee's sick days remaining(-): 8
+Expected: 8
+
+Increased employee's salary by 15% to 92.0
+Expected: 92
+
+Decreased employee's salary by 25% to 69.0
+Expected: 69
+
+New employee job title: Lifeguard
+Expected: Lifeguard
+

@@ -1,0 +1,17 @@
+Hello, Derek
+It is nice to meet you!
+55
+3628800
+* *           * * *
+*  *         *    *
+*   *        *     
+*   *        *     
+*  *          *    
+* *            * * 
+     Sales Tax Rates    
+------------------------
+North Carolina      8.5%
+Tennessee          9.95%
+Washington         6.75%
+Deleware              0%
+New York          10.45%

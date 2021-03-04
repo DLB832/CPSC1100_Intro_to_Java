@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dwarf
+comment1.params=
+comment1.target=Dwarf()
+comment2.params=
+comment2.target=int\ getMaxStrength()
+comment3.params=
+comment3.target=int\ getCurrentStrength()
+comment4.params=maxSTR
+comment4.target=void\ setMaxStrength(int)
+comment5.params=currentSTR
+comment5.target=void\ setCurrentStrength(int)
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Dragon
+comment1.params=
+comment1.target=Dragon()
+comment1.text=constructor\ objects\ for\ the\ Dragon\ class.\ here\ you\ can\ edit\ this\ \n\ objects\ specific\ variables\ even\ the\ ones\ its\ pulling\ from\ the\ \nplayer\ piece\ class.
+comment2.params=
+comment2.target=int\ getMaxFire()
+comment3.params=
+comment3.target=int\ getCurrentFire()
+comment4.params=maxF
+comment4.target=void\ setMaxFire(int)
+comment5.params=currentF
+comment5.target=void\ setCurrentfire(int)
+numComments=6

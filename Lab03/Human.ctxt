@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Human
+comment1.params=
+comment1.target=Human()
+comment2.params=
+comment2.target=int\ getMaxSpiritt()
+comment3.params=
+comment3.target=int\ getCurrentSpirit()
+comment4.params=maxS
+comment4.target=void\ setMaxSpirit(int)
+comment5.params=currentS
+comment5.target=void\ SetCurrentSpirit(int)
+numComments=6

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\n\ Stores\ a\ student's\ name,\ a\ running\ sum\ of\ all\ of\ their\ quiz\ scores,\n\n\ @author\ (Derek\ Campbell)\n\ @version\ (02/05/2020)\n
+comment1.params=name\ quiz\ totalScore
+comment1.target=Student(java.lang.String,\ int,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Student\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Provides\ the\ student's\ name.\n\n\ @param\n\ @return\ \ \ \ the\ student's\ name\n
+comment3.params=score
+comment3.target=void\ addQuiz(double)
+comment3.text=\n\ Adds\ another\ quiz\ to\ the\ total\ numer\ of\ quizes\ taken\ by\ the\ student.\n\ adds\ a\ declared\ amount\ (score)\ to\ the\ total\ score\ value.\n
+comment4.params=
+comment4.target=int\ getQuiz()
+comment4.text=\n\ returns\ the\ number\ of\ quizes\ taken.\n
+comment5.params=
+comment5.target=double\ getTotalScore()
+comment5.text=\n\ provides\ the\ total\ score\ value\ of\ all\ quizes\ taken.\n
+comment6.params=
+comment6.target=double\ getAverageScore()
+comment6.text=\n\ calculates\ the\ average\ quiz\ score\ by\ dividing\ the\ total\ score\ for\ \n\ quizes\ by\ the\ number\ of\ quizes\ taken.\n
+numComments=7

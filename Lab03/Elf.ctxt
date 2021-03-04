@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Elf
+comment1.params=
+comment1.target=Elf()
+comment2.params=
+comment2.target=int\ getMaxMagic()
+comment3.params=
+comment3.target=int\ getCurrentMagic()
+comment4.params=maxM
+comment4.target=void\ setMaxMagic(int)
+comment5.params=currentM
+comment5.target=void\ setCurrentMagic(int)
+numComments=6
