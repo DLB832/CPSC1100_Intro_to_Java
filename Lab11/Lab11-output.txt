@@ -1,0 +1,94 @@
+Begin Task01.
+The sum of even numbers between 2 & 10 is: 2550
+The sum of all squares between 1 & 100 is: 338350.0
+2^0.0 = 1.0
+2^1.0 = 2.0
+2^2.0 = 4.0
+2^3.0 = 8.0
+2^4.0 = 16.0
+2^5.0 = 32.0
+2^6.0 = 64.0
+2^7.0 = 128.0
+2^8.0 = 256.0
+2^9.0 = 512.0
+2^10.0 = 1024.0
+2^11.0 = 2048.0
+2^12.0 = 4096.0
+2^13.0 = 8192.0
+2^14.0 = 16384.0
+2^15.0 = 32768.0
+2^16.0 = 65536.0
+2^17.0 = 131072.0
+2^18.0 = 262144.0
+2^19.0 = 524288.0
+2^20.0 = 1048576.0
+The sum of odd numbers between a & b is: 33
+
+Begin Task02
+Please enter numbers. Please press Q to end.
+8
+42
+9
+5
+5
+6
+13
+3214445
+-123
+q
+The smallest imported number is: -123
+The largest imported number is: 3214445
+Please enter numbers. Please press Q to end.
+2
+5
+7
+55
+43
+52
+646
+2
+209
+202
+1
+-14
+-1554
+q
+The number of odd numbers entered was: 6
+The number of even numbers entered was: 7
+Please enter numbers. Please press Q to end.
+1
+4
+Your cumulative total is: 5
+6
+Your cumulative total is: 11
+7
+Your cumulative total is: 18
+29
+Your cumulative total is: 47
+q
+Please enter numbers. Please press Q to end.
+12
+2
+4
+9
+9
+Duplicate number: 9
+5
+5
+Duplicate number: 5
+14
+6
+7
+7
+Duplicate number: 7
+7
+7
+Duplicate number: 7
+q
+
+Begin Task03.
+Please enter a line of text.
+If you're going to hit me, hit me with an axe.
+II o'egigt i e i ewt nae
+_f y__'r_ g__ng t_ h_t m_, h_t m_ w_th _n _x_.
+0 4 5 8 11 12 17 20 24 28 32 35 39 42 44 

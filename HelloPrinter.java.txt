@@ -1,0 +1,11 @@
+//ENTER NAME HERE
+//ENTER UTC ID HERE
+//DO THIS FOR EVERY ASSIGNMENT THIS SEMESTER!!! (worth 5 pts)
+ public class HelloPrinter
+{
+    public static void main(String[] args) {//begin main
+		//the following line of code prints a message to the screen
+        System.out.println("Hello World!!");
+        
+    } //end main
+}

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Fibonacci
+comment0.text=\n\ Write\ a\ description\ of\ class\ Fibonacci\ here.\n\n\ @author\ (Derek\ Campbell)\n\ @version\ (04/25/2020)\n
+comment1.params=
+comment1.target=Fibonacci()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Fibonacci\n
+comment2.params=_n
+comment2.target=long\ getFiboNumber(int)
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ _n\ which\ number\ in\ the\ sequence\ the\ user\ wants\ returned.\n\ @return\ \ \ \ tthe\ nth\ number\ of\ the\ Fibonacci\ Sequence.\n
+numComments=3

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=StringManipulator
+comment0.text=\n\ Write\ a\ description\ of\ class\ StringManipulator\ here.\n\n\ @author\ (Derek\ Campbell)\n\ @version\ (04/04/2020)\n
+comment1.params=_line
+comment1.target=StringManipulator(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ StringManipulator\n\ \n\ @param\ (_line)\ A\ line\ of\ text\ to\ be\ evaluated\ by\ the\ methods.\n
+comment2.params=
+comment2.target=void\ printUpper()
+comment2.text=\n\ Prints\ out\ only\ the\ uppercase\ letters\ in\ a\ string\ inputted\ by\ the\ user.\n
+comment3.params=
+comment3.target=void\ printEveryOther()
+comment3.text=\n\ Prints\ out\ every\ other\ character\ in\ a\ string\ inputted\ by\ the\ user.\n
+comment4.params=
+comment4.target=void\ vowelsToUnderscore()
+comment4.text=\ \n\ Changes\ each\ vowel\ in\ a\ string\ inputted\ by\ a\ user\ into\ an\ underscore.\n
+comment5.params=
+comment5.target=void\ printVowelCount()
+comment5.text=\n\ prints\ out\ the\ number\ of\ vowels\ in\ a\ string\ inputted\ by\ the\ user.\n
+comment6.params=
+comment6.target=void\ printVowelPositions()
+comment6.text=\ \n\ prints\ the\ numerical\ position\ of\ the\ vowels\ in\ a\ string\ inputted\ by\ the\ user.\n
+numComments=7

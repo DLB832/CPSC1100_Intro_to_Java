@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FibonacciTester
+comment0.text=\r\n\ A\ tester\ for\ the\ Fibonacci\ class.\r\n\r\n\ @author\ (Derek\ Campbell)\r\n\ @version\ (4/25/2020)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

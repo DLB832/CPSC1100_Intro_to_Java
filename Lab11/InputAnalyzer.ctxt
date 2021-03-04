@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=InputAnalyzer
+comment0.text=\n\ Write\ a\ description\ of\ class\ InputAnalyzer\ here.\n\ a,\ b,\ c,\ d;\n\ @author\ (Derek\ Campbell)\n\ @version\ (04/04/2020)\n
+comment1.params=
+comment1.target=InputAnalyzer()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ InputAnalyzer\n
+comment2.params=
+comment2.target=void\ findSmallLarge()
+comment2.text=\n\ finds\ the\ smallest\ and\ larger\ numbers\ inputted\ into\ a\ list\ and\ returns\ those\ values.\n
+comment3.params=
+comment3.target=void\ countEvenOdd()
+comment3.text=\n\ Returns\ a\ count\ of\ the\ number\ of\ even\ integers\ and\ odd\ integers\ inputted\ by\ the\ user.\n
+comment4.params=
+comment4.target=void\ cumulativeTotal()
+comment4.text=\n\ provides\ a\ cummulative\ sum\ of\ the\ integers\ inputted\ by\ the\ user.\n
+comment5.params=
+comment5.target=void\ findAdjDuplicates()
+comment5.text=\n\ Determines\ if\ the\ user\ inputs\ the\ same\ number\ twice\ in\ a\ row.\n
+numComments=6

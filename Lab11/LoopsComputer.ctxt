@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LoopsComputer
+comment0.text=\n\ Write\ a\ description\ of\ class\ LoopsComputer\ here.\n\ a,\ b,\ c,\ d;\n\n\ @author\ (Derek)\n\ @version\ (04/04/2020)\n
+comment1.params=
+comment1.target=LoopsComputer()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ LoopsComputer\n
+comment2.params=
+comment2.target=void\ computeEvenSum()
+comment2.text=\n\ the\ sum\ of\ all\ even\ numbers\ between\ 2\ and\ 100\ (inclusive).\n
+comment3.params=
+comment3.target=void\ computeSquareSum()
+comment3.text=\n\ the\ sum\ of\ all\ squares\ between\ 1\ and\ 100\ (inclusive).\n
+comment4.params=
+comment4.target=void\ printPowers()
+comment4.text=\n\ all\ powers\ from\ 2^0\ to\ 2^20.\n
+comment5.params=_a\ _b
+comment5.target=void\ oddSum(int,\ int)
+comment5.text=\n\ the\ sum\ of\ all\ odd\ numbers\ between\ a\ and\ b\ (inclusive).\n
+numComments=6
